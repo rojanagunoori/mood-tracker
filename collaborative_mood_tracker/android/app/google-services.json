@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379733482080",
+    "project_id": "collaborativemoodtracker",
+    "storage_bucket": "collaborativemoodtracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379733482080:android:05232447690acb0295c105",
+        "android_client_info": {
+          "package_name": "com.example.collaborative_mood_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEKFuIq633Y-XAEjDuWnGZvSeqUU6z9QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
