@@ -3,6 +3,7 @@
 <video controls width="600">
   <source src="https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker.mp4" type="video/mp4">
 </video>
+
 ![Screenshot 1](https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker1.png)
 
 ![Screenshot 2](https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker2.png)
