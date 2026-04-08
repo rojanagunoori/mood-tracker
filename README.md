@@ -1,5 +1,16 @@
 # Collaborative Mood Tracker
 
+<video controls width="600">
+  <source src="https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker.mp4" type="video/mp4">
+</video>
+![Screenshot 1](https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker1.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker3.png)
+
+![Screenshot 4](https://raw.githubusercontent.com/rojanagunoori/mood-tracker/main/collaborative_mood_tracker/public/moodtracker4.png)
+
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)  
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rojanagunoori/mood-tracker)
